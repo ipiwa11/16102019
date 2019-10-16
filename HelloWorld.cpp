@@ -17,7 +17,7 @@ break;
 
 if(IsBreak==false){
    int b = atoi(a);
-cout<<b+7<<endl;
+cout<<b+5<<endl;
 }
 return 0;
 }
